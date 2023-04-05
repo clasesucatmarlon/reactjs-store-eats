@@ -1,12 +1,9 @@
-import { Testing } from "./Testing";
-
 const App = () => {
 	return (
-		<div className="App">
+		<div className='App'>
 			<h1>Initial configuration</h1>
-			<Testing />
 		</div>
 	);
 };
 
-export default App
+export default App;
