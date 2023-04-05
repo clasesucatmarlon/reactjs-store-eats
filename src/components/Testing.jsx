@@ -1,9 +1,8 @@
-import Ract from 'react'
 
 export const Testing = () => {
-  const Test1 = () => {
+  /* const Test1 = () => {
     console.log('holaaaaaa')
-  }
+  } */
   return (
     <div>Tersting</div>
   )
